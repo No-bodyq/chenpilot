@@ -4,8 +4,12 @@ dist
 .env.local
 src/Auth/accounts.json
 logs/
+coverage/
 
 .agent/
 .agents/
-COMMIT.md
 issue.md
+COMMIT.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
